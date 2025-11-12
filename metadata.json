@@ -1,0 +1,5 @@
+{
+  "name": "気温推移",
+  "description": "An application to display and compare weather data from the past two days, today, and tomorrow. It features a table and a chart for hourly temperature and weather conditions, with location selection functionality.",
+  "requestFramePermissions": []
+}
